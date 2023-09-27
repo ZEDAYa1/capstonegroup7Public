@@ -12,7 +12,7 @@ import za.ac.cput.service.LeaseService;
 import java.util.Set;
 
 @RestController
-@RequestMapping("capstonegroup7/lease")
+@RequestMapping("capstonegroup7/lease/")
 @Slf4j
 public class LeaseController {
 
